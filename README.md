@@ -34,6 +34,16 @@ data created for development and demonstration purposes.No real patient or medic
 ## Interactive Figma Prototype                                                                                                                                                                                                    Open Under Emergency Prototype
 https://www.figma.com/proto/tjfBsjOOdXF7YmpWuirqpN/under-emergency?node-id=2-2225&viewport=-112%2C1013%2C0.19&t=g8sCJyntyeNSYKZQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A2225&show-proto-sidebar=1&page-id=0%3A1
 
+## Figma Make UI Source Code
+
+This folder contains the source code for the Under Emergency user interface created using Figma Make.
+
+The project includes the frontend UI components, screens, layouts, styling, and interactive interface elements used in the application prototype.
+
+Technology: html,css
+
+The code is provided for development, demonstration, and evaluation purposes.
+
 ## Demo Video
 
 Watch Under Emergency Demo                                                                                                                                                                                                        https://drive.google.com/file/d/14c87Zqq_QN4rX8uoFdAEmshIWcmr6Hcl/view?usp=drivesdk
