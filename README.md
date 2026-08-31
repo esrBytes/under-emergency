@@ -22,44 +22,13 @@ The database includes tables for storing information related to:
 UsersEm
 ergency CasesSymp
 toms / InjuriesTriage
- ResultsHealthca
-re ProvidersOther proj
-ect-related dataTechnologies
+ ResultsHealthcare ProvidersOther project-related dataTechnologies
 
 MySQLphpMyAd
 
-minSQLS
-QL FileThe c
-omple
-
-te datab
-
-ase is available in:under_emergency.sq
-
-lThe SQL file conta
-
-ins:Database tablesPri
-
-mary KeysForeign 
-KeysConstraint
-sRelationships
-Sample/Test D
-ataHow to Impor
-t the DatabaseOpen
-
- phpMyAdmin.Create a new M
-
-ySQL database.Selec
-t the database.Open the Import 
-tab.Select under_emerge
-ncy.sql.Click Import.Th
-e database tables and sample d
-ata will be crea
-ted automatically.NotesThe data included in this repository is test/sample
-
- data created for development and demonstration purposes.No real patient or medical information should be st
-
-ored in this repository.
+minSQLSQL FileThe complete database is available in:under_emergency.sqlThe SQL file contains:Database tablesPrimary KeysForeign KeysConstraints Relationships
+Sample/Test DataHow to Import the DatabaseOpen phpMyAdmin.Create a new MySQL database.Select the database.Open the Import tab.Select under_emergency.sql.ClickImport.The database tables and sample data will be created automatically. NotesThe data included in this repository is test/sample
+data created for development and demonstration purposes.No real patient or medical information should be stored in this repository.
 
 
 ## Interactive Figma Prototype                                                                                                                                                                                                    Open Under Emergency Prototype
