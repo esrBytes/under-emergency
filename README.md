@@ -1,5 +1,47 @@
 
 # Under Emergency
+## Under Emergency – ERD
+
+This repository contains the Entity Relationship Diagram (ERD) for the Under Emergency project.
+
+The database is designed to support an AI-powered emergency triage system that helps assess patients, classify the severity of their conditions, and guide them toward the appropriate healthcare facility.
+
+## Database Overview
+
+The ERD includes the main entities required to manage:
+
+- Users and patient profiles
+- Healthcare providers and healthcare facilities
+- Patient assessments and symptoms
+- AI-based triage results
+- Assessment history and timeline
+- Medical images and uploaded media
+- Final triage decisions and provider reviews
+- Prescriptions and prescription items
+- Healthcare facility availability and waiting times
+- Scheduled facility entries
+
+## Purpose
+
+The database structure is designed to support the core workflow of Under Emergency:
+
+Patient → Assessment → AI Triage → Healthcare Facility → Provider Review → Final Triage
+
+The ERD defines the relationships between these entities using Primary Keys (PK) and Foreign Keys (FK) to maintain data integrity and ensure that related records are properly connected.
+
+## ERD
+
+The complete Entity Relationship Diagram is provided in this repository as:
+
+Under_Emergency_ERD.png
+
+## Database Technology
+
+- SQL
+- MySQL / MariaDB
+- phpMyAdmin
+
+This ERD represents the database design prepared for the Under Emergency project and its emergency triage workflow.
 
 ## Under Emergency Database
 
